@@ -6,6 +6,10 @@ body {
 }
 #titulo{
     text-align: center;
+    font-family: Impact, Haettenschweiler;
+    font-size: 30px;
+    color: lime;
+    line-height: 1.6;
 }
 #minha_foto{
      width: 250px;
