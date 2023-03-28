@@ -1,8 +1,7 @@
 body {
     background-color: rgb(253, 251, 251);}
 #cabecalho {
-    top: 0;   
-    position: fixed;
+    top: 0; position: fixed;
 }
 #titulo {
     text-align: center;
@@ -18,7 +17,7 @@ body {
      border-radius: 5%;
     }
 table, th, td {
-    border: 1px solid black;
+    border: 1px, solid, black;
     text-align: center;
 }     
 .lado-esquerdo {
@@ -27,7 +26,7 @@ table, th, td {
     position: absolute;
 }
 .lado-direito {
-    margin-right: 50%;
-    width: 49%;
-    position: absolute;
+margin-right: 50%;
+width: 49%;
+position: absolute;
 }
