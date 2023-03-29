@@ -3,7 +3,8 @@ body {
 }
 
 #cabecalho {
-  top: 0; 
+  top: 0;
+  
   position: fixed;
 }
 
@@ -25,7 +26,7 @@ body {
 table, th, td {
   border: 1px, solid, black;
   text-align: center;
-}   
+}
 
 .lado-esquerdo {
   margin-left: 50%;
