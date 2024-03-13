@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>📖 Lessons Learned 📖</h1>
+  <h1>💻 Lessons Learned 📖</h1>
 </div>
 
 My first project in the fundamentals module of Trybe marks the beginning of my journey in this course. This introductory task provided my first practical encounter with HTML and CSS, allowing me to apply the essential initial concepts for building and customizing web pages. #VQV🚀
